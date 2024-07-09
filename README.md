@@ -1,1 +1,1 @@
-As a school project it was my first project. I and my friends made a easy Cpp project which is like a school management system on a terminal. It is here because I want to see this code after many years. 
+As a school project it was my first project. Me and my friends made a easy Cpp project which is like a school management system on a terminal. It is here because I want to see this code after many years. 
